@@ -3,12 +3,6 @@ This dataset contains over 9,500 malware samples that are related to 8 APT group
 
 The samples in the dataset are distributed as follows:
 
-APT Group	Family	        Number
-EnergeticBeAR	           	963	
-ALLANITE	                375
-APT-C-01	              	2492	
-APT-C-03	           	    1951
-APT-C-06	                1132
-Orangeworm	           	  1492	
-Blackwine	           	    730
-APT28	           	        450	
+
+![image](https://github.com/JefferySun23/JefferySun23/assets/147399750/af49f802-a7f2-415d-a58e-166d205f6e6a)
+
